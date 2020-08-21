@@ -1,0 +1,8 @@
+[graphql] operation | operation: SearchPatients | opId: 118
+[graphql] operation-responsetime | operation: SearchPatients | duration: 0.052525752 | operationType: query
+[pubsub] unsubscribe | trigger: ON_CASE_DATA_CHANGE
+[graphql] operation-responsetime | operation: onCaseEvent | duration: 87.068694843 | operationType: subscription
+[pubsub] unsubscribe | trigger: ON_DIGITAL_CONSULTATION_CHANGE
+[graphql] operation-responsetime | operation: onDigitalConsultationEvent | duration: 87.066061018 | operationType: mutation
+[pubsub] unsubscribe | trigger: ON_DIGITAL_CONSULTATION_CHANGE
+[graphql] operation-responsetime | operation: onDigitalConsultationEvent | duration: 87.067924051 | operationType: subscription
